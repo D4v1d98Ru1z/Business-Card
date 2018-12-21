@@ -1,0 +1,23 @@
+{
+  "name": "davidle.codes",
+  "version": "1.0.0",
+  "description": "A personal business card for David Ruiz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D4v1d98Ru1z/Business-Card.git"
+  },
+  "keywords": [
+    "business",
+    "Card"
+  ],
+  "author": "David Ruiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/D4v1d98Ru1z/Business-Card/issues"
+  },
+  "homepage": "https://github.com/D4v1d98Ru1z/Business-Card#readme"
+}
