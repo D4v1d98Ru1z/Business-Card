@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/D4v1d98Ru1z/Business-Card/issues"
   },
-  "homepage": "https://github.com/D4v1d98Ru1z/Business-Card#readme"
+  "homepage": "https://github.com/D4v1d98Ru1z/Business-Card#readme",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
 }
