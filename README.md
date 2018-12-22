@@ -14,16 +14,13 @@ This is used to tell Node.js that this is a CLI tool.
 
 ## How to build mine?
 
-In the path:
+In the path: `./bin/b-card.js`
 
-```
-./bin/b-card.js
-```
+just edit the data elements.
+
 ## Publish npm
 
 Run `npm publish`
-
-just edit the data elements.
 
 ## Usage
 
