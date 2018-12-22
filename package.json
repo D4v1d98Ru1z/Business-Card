@@ -1,6 +1,6 @@
 {
   "name": "davidle.codes",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "A personal business card for David Ruiz.",
   "main": "index.js",
   "bin": {
