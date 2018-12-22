@@ -20,7 +20,7 @@ const data = {
     instagram: chalk.white('https://www.instagram.com/davidle.codes'),
     linkedin: chalk.white('https://www.linkedin.com/in/davidlecodes'),
     github: chalk.white('https://github.com/D4v1d98Ru1z'),
-    npx: chalk.white('npx davidlecodes'),
+    npx: chalk.white('npx davidle.codes'),
     labelWork: chalk.white.bold('       Work: '),
     labelTwitter: chalk.white.bold('    Twitter: '),
     labelInstagram: chalk.white.bold('  Instagram: '),
